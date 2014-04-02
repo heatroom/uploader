@@ -1,0 +1,19 @@
+{
+  "name": "uploader",
+  "repo": "heatroom/uploader",
+  "description": "Uploading and target at iframe.",
+  "version": "0.2.0",
+  "keywords": [
+    "uploader",
+    "file"
+  ],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
